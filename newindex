@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale+1.0">
+    <title>Cool Things</title>
+</head>
+<body>
+    <h1>My Favorite Stuff</h1>
+    <div>
+        <h2>Favorite Animals</h2>
+        <p>Here are some animals that I enjoy!</p>
+        <ul>
+            <li>Rabbits</li>
+            <li>Cats</li>
+            <li>Bears</li>
+        </ul>
+        <hr>
+    </div>
+    <hr>
+    <div>
+        <h2>Favorite Movies</h2>
+        <p>Here are some of my favorite movies</p>
+        <ol>
+            <li>Lord of the Rings</li>
+            <li>The Mummy</li>
+            <li>Everything, Everywhere, and all at Once</li>
+        </ol>    
+    </div>
+    <hr>    
+</body>
+</html>      
